@@ -59,7 +59,11 @@ git clone https://github.com/mlnc2/Trabalho-Faculdade-React.git
 
 ## Prints das Telas Principais
 
-
+![Tela Inicial](screens/image.png)
+![Segunda Tela](screens/image1.png)
+![Terceira Tela](screens/image2.png)
+![Quarta Tela](screens/image3.png)
+![Quinta Tela](screens/image4.png)
 ---
 
 ## Como usar
