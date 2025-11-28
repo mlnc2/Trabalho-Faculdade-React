@@ -70,10 +70,3 @@ git clone https://github.com/mlnc2/Trabalho-Faculdade-React.git
 4. O carrossel exibe sugestões em destaque.
 
 ---
-
-## Estrutura Simplificada do Projeto
-
-
-
-Adicione aqui os prints das telas. Exemplo:
-
