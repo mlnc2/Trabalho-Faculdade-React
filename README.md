@@ -48,12 +48,12 @@ git clone https://github.com/mlnc2/Trabalho-Faculdade-React.git
 - Carousel.tsx
 
 ### Gabriel
-- RecipeListProps  
-- RecipeList
+- RecipeListProps.tsx  
+- RecipeList.tsx
 
 ### Marlon
-- RecipeCard  
-- SearchBar
+- RecipeCard.tsx  
+- SearchBar.tsx
 
 ---
 
